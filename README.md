@@ -1,7 +1,6 @@
 
 # Rapport
 
-**Skriv din rapport här!**
 Det som har gjorts vid denna uppgift är att skapa en Github account och förstå hur det fungerar, ladda ner och få igång Androidstudios och koppla de två samman.
 En annan sak som gjorts är att skapa och få igång en mobil-emulator. När alla delar fungerar var det dags att hitta i de olika filerna. Jag kom fram till att ändringarna skedde i activity_main.xml. Där hittades kodraden som skrev ut 'Hello' som då hämtade ordet ifrån appens namn. Nu står det istället 'Hello there gorgeous', bakgrunden är grå, texten är i rosa och något större.  
     
